@@ -1,70 +1,105 @@
 # Privacy Policy for FestFixx
 
-Last updated: May 21, 2026
+Last updated: May 22, 2026
 
-FestFixx is a bilingual social party game platform for icebreakers, trivia, team challenges, AI-style party host prompts, and custom local game packs. We design FestFixx to collect as little information as possible.
+FestFixx is a bilingual social party game platform for icebreakers, trivia, team challenges, optional 18+ modes, scoring, punishment-wheel gameplay, and custom game packs.
+
+We design FestFixx to collect as little information as possible.
 
 This policy explains what information FestFixx collects, how it is used, and what choices you have.
 
-## Information We Collect
+---
 
-### App-generated identifiers
+# Information We Collect
+
+## App-Generated Identifiers
 
 FestFixx creates a random session identifier on your device. The app sends this identifier to our backend to create or retrieve a short public user ID for basic app functionality and administration.
 
 The backend may store:
 
-- app-generated session ID
-- app-generated public user ID
-- account/session creation date
+* App-generated session ID
+* App-generated public user ID
+* Account/session creation date
 
 These identifiers are not created from your real name, email address, phone number, contacts, location, or advertising identifier.
 
-### Local gameplay information
+---
+
+## Local Gameplay Information
 
 FestFixx stores some gameplay information locally on your device, including:
 
-- selected language
-- party mode settings
-- XP, level, achievements, and completed session count
-- player names entered for a local game session
-- custom prompts or custom packs you create
+* Selected language
+* Party mode settings
+* XP, level, achievements, completed session count, per-round scores, and local winner results
+* Player names entered for a local game session
+* Punishment-wheel results, challenge completion state, and gameplay state during a local session
+* Custom prompts or custom packs you create
 
-This local gameplay information is used to run the app experience on your device. Player names and custom packs are not currently uploaded to our backend.
+This local gameplay information is used to run the app experience on your device.
 
-## Information We Do Not Collect
+Player names, challenge completion status, round scores, winner results, and punishment-wheel results are not uploaded to our backend.
+
+---
+
+## Custom Game Mode Review Submissions
+
+If you tap “Send to review” for a custom game mode, FestFixx sends the following information to our backend so an admin can review it:
+
+* Custom pack title
+* Description
+* Prompts
+* Actions
+* App-generated user ID
+* Review status
+
+Draft custom packs that are only saved locally are not uploaded.
+
+---
+
+# Information We Do Not Collect
 
 FestFixx does not collect:
 
-- your real name
-- email address
-- phone number
-- precise location
-- contacts
-- photos or videos
-- messages
-- payment information
-- advertising identifier
+* Your real name
+* Email address
+* Phone number
+* Precise location
+* Contacts
+* Photos or videos
+* Messages
+* Payment information
+* Advertising identifier
 
-## AI and Custom Content
+---
 
-FestFixx may include AI-style party host prompts and dynamic prompts generated from local player names. In the current app version, these prompts are generated locally from built-in templates and are not sent to an external AI provider.
+# Personalized and Custom Content
 
-Custom game packs are stored locally on your device. If a future version adds community sharing or cloud review, this policy will be updated before that data is collected.
+FestFixx includes dynamic prompts, challenge completion buttons, scoring, winner results, and punishment-wheel results generated locally from the player names entered for a session.
 
-## How We Use Information
+Player names, challenge results, and scores are used on-device for gameplay and are not sent to our backend.
+
+Custom game packs are stored locally unless you submit them for admin review. Submitted custom packs are uploaded for moderation and review.
+
+---
+
+# How We Use Information
 
 We use collected information for:
 
-- app functionality
-- creating or retrieving your app-generated user ID
-- saving local settings and progress
-- basic administration and support
-- maintaining app reliability
+* App functionality
+* Creating or retrieving your app-generated user ID
+* Saving local settings and progress
+* Reviewing submitted custom game modes
+* Basic administration and support
+* Maintaining app reliability
 
 We do not use collected information for third-party advertising or cross-app tracking.
 
-## Tracking and Third-Party Sharing
+---
+
+# Tracking and Third-Party Sharing
 
 FestFixx does not track you across apps or websites owned by other companies.
 
@@ -72,41 +107,71 @@ FestFixx does not sell your data.
 
 FestFixx does not share personal information with advertisers or data brokers.
 
-## In-App Purchases
+---
+
+# In-App Purchases
 
 FestFixx currently does not include paid subscriptions or in-app purchases.
 
-## Data Storage and Retention
+---
+
+# Data Storage and Retention
 
 Local gameplay information remains on your device unless you delete the app or clear the app's storage.
 
-Backend session records may remain stored unless deletion is requested. You may contact us to request deletion of your app-generated session record if you can provide your in-app user ID.
+Backend session records and submitted custom game mode review data may remain stored unless deletion is requested.
 
-## Children and Age Rating
+You may contact us to request deletion of:
 
-FestFixx is intended for older teens and adults because it includes multiplayer social games, party prompts, user-created local prompts, and optional adult-oriented party settings.
+* Backend session data
+* Custom game mode submissions linked to your in-app user ID
+
+---
+
+# Children and Age Rating
+
+FestFixx is intended for older teens and adults because it includes:
+
+* Multiplayer social games
+* Party prompts
+* Optional 18+ modes
+* User-created local prompts
+* Group challenges
 
 FestFixx is not directed to children under 13.
 
-## Your Choices
+---
+
+# Your Choices
 
 You can:
 
-- change language and party settings in the app
-- keep optional adult prompts disabled
-- delete the app to remove local gameplay data from your device
-- contact us to request deletion of backend session data linked to your in-app user ID
+* Change language and party settings in the app
+* Keep optional 18+ modes disabled
+* Delete the app to remove local gameplay data from your device
+* Choose not to submit custom game modes for admin review
+* Contact us to request deletion of backend session data or submitted custom game mode data linked to your in-app user ID
 
-## Security
+---
 
-We use reasonable technical measures to protect the limited information processed by FestFixx. No method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+# Security
 
-## Changes to This Policy
+We use reasonable technical measures to protect the limited information processed by FestFixx.
 
-We may update this Privacy Policy when FestFixx changes or when legal, technical, or App Store requirements change. The updated policy will include a new "Last updated" date.
+No method of transmission or storage is completely secure, and we cannot guarantee absolute security.
 
-## Contact
+---
 
-If you have questions about this Privacy Policy or want to request deletion of your app-generated session record, contact:
+# Changes to This Policy
 
-mrgenderbender790@gmail.com
+We may update this Privacy Policy when FestFixx changes or when legal, technical, or App Store requirements change.
+
+The updated policy will include a new "Last updated" date.
+
+---
+
+# Contact
+
+If you have questions about this Privacy Policy or want to request deletion of your app-generated session record or submitted custom game mode data, contact:
+
+* mrgenderbender790@gmail.com
